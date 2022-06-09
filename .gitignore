@@ -1,0 +1,8 @@
+logs/
+**/*.log
+**/*.html
+**/*__pycache__
+**/*.vscode
+**/*.DS_Store
+**/*.pytest_cache
+Pipfile

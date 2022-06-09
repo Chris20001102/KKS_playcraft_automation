@@ -1,0 +1,111 @@
+[
+  {
+    "udid": "desktop_chrome",
+    "deviceName": "desktop",
+    "platformName": "desktop",
+    "platformVersion": "",
+    "automationName": "",
+    "browserName": "chrome"
+  },
+  {
+    "udid": "99GAY1A21R",
+    "platformName": "Android",
+    "platformVersion": "11.0",
+    "automationName": "UIAutomator2",
+    "systemPort": 0,
+    "chromedriverPort": 0,
+    "autoLaunch": false,
+    "newCommandTimeout":6000
+  },
+  {
+    "udid": "RFCN70EJB7R",
+    "platformName": "Android",
+    "platformVersion": "11.0",
+    "automationName": "UIAutomator2",
+    "systemPort": 0,
+    "chromedriverPort": 0,
+    "autoLaunch": false,
+    "newCommandTimeout":6000
+  },
+  {
+    "udid": "BH950066HK",
+    "platformName": "Android",
+    "platformVersion": "10.0",
+    "automationName": "UIAutomator2",
+    "systemPort": 0,
+    "chromedriverPort": 0,
+    "autoLaunch": false,
+    "newCommandTimeout":6000
+  },
+  {
+    "udid": "9fa2e959",
+    "platformName": "Android",
+    "platformVersion": "10.0",
+    "automationName": "UIAutomator2",
+    "systemPort": 0,
+    "chromedriverPort": 0,
+    "autoLaunch": false,
+    "newCommandTimeout":6000
+  },
+  {
+    "udid": "2bc509ef03017ece",
+    "platformName": "Android",
+    "platformVersion": "9.0",
+    "automationName": "UIAutomator2",
+    "systemPort": 0,
+    "chromedriverPort": 0,
+    "autoLaunch": false,
+    "newCommandTimeout":6000
+  },
+  {
+    "udid": "418109000331",
+    "platformName": "Android",
+    "platformVersion": "8.1.0",
+    "automationName": "UIAutomator2",
+    "systemPort": 0,
+    "chromedriverPort": 0,
+    "autoLaunch": false,
+    "newCommandTimeout":6000
+  },
+  {
+    "udid": "LGH870DSf5410cbc",
+    "platformName": "Android",
+    "platformVersion": "8.0",
+    "automationName": "UIAutomator2",
+    "systemPort": 0,
+    "chromedriverPort": 0,
+    "autoLaunch": false
+  },
+  {
+    "platformName": "iOS",
+    "platformVersion": "14.4.2",
+    "automationName": "XCUITest",
+    "udid": "a0d5c7f2ed0d080401bf3fff24a198ad75acd997",
+    "deviceName": "iPhone 6s",
+    "xcodeOrgId": "72M2493FFK",
+    "xcodeSigningId": "Apple Development",
+    "showXcodeLog": true,
+    "wdaLocalPort": 8101
+  },
+  {
+    "platformName": "iOS",
+    "platformVersion": "13.0",
+    "automationName": "XCUITest",
+    "udid": "00008030-0001519E0C50802E",
+    "deviceName": "iPhone 11 Pro Max",
+    "xcodeOrgId": "72M2493FFK",
+    "xcodeSigningId": "Apple Development",
+    "showXcodeLog": true,
+    "wdaLocalPort": 8100
+  },
+  {
+    "platformName": "iOS",
+    "platformVersion": "12.1.1",
+    "udid": "70c02aea6881efc25a512a5f08403310d6ac2e78",
+    "deviceName": "iPad",
+    "xcodeOrgId": "72M2493FFK",
+    "xcodeSigningId": "Apple Development",
+    "showXcodeLog": true,
+    "wdaLocalPort": 8101
+  }
+]
